@@ -1,8 +1,7 @@
 ---
-title:"Analysis of Disney Movies" 
-author:"Edward Eckle" 
-output:html_document:default 
-pdf_document:default
+title: "Analysis of Disney Movies"
+author: "Edward Eckle"
+output: pdf_document
 ---
 
 # The Magic of the Box Office: A Decades-Long Analysis of Disney Movies
@@ -32,6 +31,7 @@ The goal of this analysis is to explore the commercial trajectory of Disney’s 
 **Inclusion of needed libraries**
 
 ```{r}
+library(tinytex)
 library(patchwork)
 library(tidyverse)
 library(lubridate)
