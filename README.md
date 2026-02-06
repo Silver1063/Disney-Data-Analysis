@@ -1,3 +1,5 @@
+<img width="1000" height="419" alt="image" src="https://github.com/user-attachments/assets/e0bc6d4a-cf22-41e1-a235-fde02b724a9e" />
+(Disney please don't sue me 🥲)
 
 ## Project Overview
 This project focuses on Analyzing Disney Movie Box Office Performance by examining historical revenue trends spanning nearly 80 years. The goal is to identify the key drivers of commercial success—such as genre popularity and MPAA ratings—and to understand how the financial "value" of a Disney film has evolved from the hand-drawn classics of the 1930s to the modern-day blockbuster era.
