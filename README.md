@@ -2,6 +2,7 @@
 (Disney please don't sue me 🥲)
 
 To view results select one of the three options above, pdf provided for ease of viewing, rmd for local inspection.
+The pdf reader on github is a bit challenging, feel free to download it and read it wherever pdfs like to find you 😤
 <img width="775" height="215" alt="image" src="https://github.com/user-attachments/assets/d39286af-65be-4eae-9240-817f636abe63" />
 
 ## Project Overview
